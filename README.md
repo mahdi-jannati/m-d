@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [tele-mirror-x64-win](https://github.com/mahdi-jannati/m-d/tree/main/downloads/tele-mirror-x64-win)
+
+---
