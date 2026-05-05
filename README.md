@@ -85,14 +85,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [73TTN-xYKPNV_Cme](https://github.com/mahdi-jannati/m-d/tree/main/downloads/73TTN-xYKPNV_Cme)
-
-2. [k8Bcrgugabk](https://github.com/mahdi-jannati/m-d/tree/main/downloads/k8Bcrgugabk)
-
-3. [k8Bcrgugabk_ocean_23921](https://github.com/mahdi-jannati/m-d/tree/main/downloads/k8Bcrgugabk_ocean_23921)
-
-4. [x-downloader.com_Dxy9ya](https://github.com/mahdi-jannati/m-d/tree/main/downloads/x-downloader.com_Dxy9ya)
+1. [go1.26.2.windows-amd64](https://github.com/mahdi-jannati/m-d/tree/main/downloads/go1.26.2.windows-amd64)
 
 ---
