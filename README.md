@@ -77,8 +77,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [tele-mirror-x64-win](https://github.com/mahdi-jannati/m-d/tree/main/downloads/tele-mirror-x64-win)
+1. [k8Bcrgugabk](https://github.com/mahdi-jannati/m-d/tree/main/downloads/k8Bcrgugabk)
 
 ---
