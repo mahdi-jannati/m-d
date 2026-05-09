@@ -89,10 +89,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [go1.26.2.windows-amd64](https://github.com/mahdi-jannati/m-d/tree/main/downloads/go1.26.2.windows-amd64)
-
-2. [mhr-cfw-go](https://github.com/mahdi-jannati/m-d/tree/main/downloads/mhr-cfw-go)
+1. [mhr-cfw-go-windows-amd64](https://github.com/mahdi-jannati/m-d/tree/main/downloads/mhr-cfw-go-windows-amd64)
 
 ---
